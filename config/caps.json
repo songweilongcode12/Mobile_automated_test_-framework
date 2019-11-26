@@ -1,0 +1,24 @@
+{"devices_msg":[{
+  "platformName": "Android",
+  "platformVersion":"8.0.0",
+  "deviceName":"192.168.56.101:5555",
+  "appname": "youzhihui_sc.apk",
+  "noReset": true,
+  "unicodeKeyboard": true,
+  "resetKeyboard": true,
+  "appPackage": "com.mbox.cn",
+  "appActivity": "com.mbox.cn.MainActivity",
+  "uiautomator": "uiautomator",
+  "uiautomator2": "uiautomator2",
+  "ip": "127.0.0.1",
+  "port": "4723",
+  "autoGrantPermissions": true,
+  "chromedriverExecutable":"/usr/local/bin/chromedriver",
+  "dontStopAppOnReset":true,
+  "noSign": true
+}],
+  "login_msg":[{
+    "uesrname":"grant.song@bindo.com",
+    "password":"www123"
+  }]
+}
